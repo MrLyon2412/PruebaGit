@@ -10,7 +10,16 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ElPePe");
+            int a;
+            int b;
+            int c;
+
+            a = 5;
+            b = 6;
+
+            c = a + b;
+
+            Console.Write(c);
         }
     }
 }
